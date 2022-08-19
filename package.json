@@ -6,26 +6,26 @@
     "dev": "next dev -H 0.0.0.0",
     "build": "next build",
     "start": "next start",
-    "prettier": "prettier --write .",
+    "prettier": "prettier -write .",
     "lint": "next lint"
   },
   "keywords": [],
   "author": "Bao Nguyen",
   "license": "MIT",
   "dependencies": {
-    "@chakra-ui/icons": "^2.0.8",
-    "@chakra-ui/react": "^2.2.8",
-    "@emotion/react": "^11.10.0",
-    "@emotion/styled": "^11.10.0",
-    "framer-motion": "^7.2.0",
-    "next": "^12.2.5",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-icons": "^4.4.0"
+    "@chakra-ui/icons": "^1.0.15",
+    "@chakra-ui/react": "^1.6.9",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "framer-motion": "^4.1.17",
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1"
   },
   "devDependencies": {
-    "eslint": "^8.22.0",
-    "eslint-config-next": "^12.2.5",
-    "prettier": "^2.7.1"
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^11.1.2",
+    "prettier": "^2.4.1"
   }
 }
