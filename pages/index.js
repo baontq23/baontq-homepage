@@ -81,7 +81,7 @@ const Home = () => (
         <Paragraph>
           I am a freelance and a mobile developer in Viet Nam with a passion for building mobile app.
           When not online, I loves hanging out with my piano.
-          Maybe I'm not intelligent, but I'll work hard to make up for it.
+          Maybe I'm not intelligent, but I&apos;ll work hard to make up for it.
         </Paragraph>
         <Box align="center" my={4}>
           <NextLink href="/works" passHref scroll={false}>
