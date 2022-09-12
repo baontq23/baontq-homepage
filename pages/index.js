@@ -100,10 +100,6 @@ const Home = () => (
           <BioYear>2003</BioYear>
           Born in Bac Giang - Viet Nam.
         </BioSection>
-        <BioSection>
-          <BioYear>2021 to present</BioYear>
-          Studying at FPT Polytechnic
-        </BioSection>
       </Section>
 
       <Section delay={0.3}>
