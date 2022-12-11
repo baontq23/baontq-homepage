@@ -92,16 +92,6 @@ const Home = () => (
         </Box>
       </Section>
 
-      <Section delay={0.2}>
-        <Heading as="h3" variant="section-title">
-          Bio
-        </Heading>
-        <BioSection>
-          <BioYear>2003</BioYear>
-          Born in Bac Giang - Viet Nam.
-        </BioSection>
-      </Section>
-
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
           I ♥
